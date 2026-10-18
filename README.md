@@ -1,4 +1,7 @@
-AI modified version of https://discord.com/channels/1161035767917850784/1553042955248603246/1554833950210265208 (Make sure you are in the HDR Den  / Luma-Framework Discord server) to remove the HDR colour grading so the modification works on SDR screens. 
+AI modified version of https://discord.com/channels/1161035767917850784/1553042955248603246/1554833950210265208 
+
+
+(Make sure you are in the [HDR Den / Luma-Framework Discord server](https://discord.gg/Frc9Ry9nJ6) to remove the HDR colour grading so the modification works on SDR screens. 
 
 This will likely not be needed in the future.  https://discord.gg/Frc9Ry9nJ6
 
