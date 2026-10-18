@@ -24,4 +24,4 @@ Gamescope can be used with:
 ## Issues I found
 
 
-If the window does not appear for the game after installing the addon, disable the Luma add-on by renaming it, launch the name, set the game to windowed mode or boarderless fullscreen, re-name the luma addon back to its original file name, adn alunc hte agame.
+If the window does not appear for the game after installing the addon, disable the Luma add-on by renaming it, launch the name, set the game to windowed mode or boarderless fullscreen, re-name the luma addon back to its original file name, and launch the game.
