@@ -18,7 +18,7 @@ Gamescope can be used with:
 
 `WINEDLLOVERRIDES="dxgi=n,b;dinput8=n,b" %command% gamescope -W 3840 -H 2160 -w 3840 -h 2160 -f -g --force-grab-cursor -- %command%`
 
-(P5StrikersFix has support for upscampling the HUD, and even at 4K the HUD still has aliasing.)
+(P5StrikersFix has support for upscampling the HUD, and even at 4K the HUD still has aliasing. Sadly I have never got these options working, so I would recommend using this modification for the 3D elements, and using the [NN-Shaders](https://github.com/Sarenya/NN-Shaders) Reshade shader to handle aliasing the HUD.)
 
 
 ## Issues I found
