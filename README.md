@@ -11,7 +11,34 @@ https://github.com/Filoppi/Luma-Framework/issues/217 )
 
 (I am not quite sure if the HDR pipeline is tied to upscaling for this modification, but this solution works for my SDR screen for now.)
 
-Extract the files into the Persona 5 Strikers install directory and if on Linux ensure you have the correct DLL overrides in your launch options. If you are also using the P5StrikersFix modification it will be:
+
+Download the files using this button on GitHub.
+
+<img width="326" height="245" alt="image" src="https://github.com/user-attachments/assets/dea00105-25c6-42fc-84bf-aa42e46ec582" />
+
+After that, extract the files into the Persona 5 Strikers install directory.
+
+It should look something like this:
+
+📁 P5S/
+├── 📄 amd_ags_x64.dll
+├── 📁 data/
+├── 📄 dinput8.dll
+├── 📄 dxgi.dll
+├── 📄 game.exe
+├── 📁 license/
+├── 📁 Luma/
+├── 📄 Luma-Persona 5 Strikers.addon
+├── 📄 nvngx_dlss.dll
+├── 📄 ReShade.ini
+├── 📄 ReShade2.ini
+├── 📄 ReShadePreset.ini
+├── 📁 reshade-shaders/
+├── 📄 steam_api64.dll
+└── 📄 steam_appid.txt
+
+
+If you are on Linux ensure you have the correct DLL overrides in your launch options. If you are also using the P5StrikersFix modification it will be:
 
 `WINEDLLOVERRIDES="dxgi=n,b;dinput8=n,b" %command%`
 
