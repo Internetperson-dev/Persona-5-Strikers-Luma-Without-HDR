@@ -19,7 +19,7 @@ Download the files using this button on GitHub.
 After that, extract the files into the Persona 5 Strikers install directory.
 
 It should look something like this:
-
+```
 📁 P5S/
 ├── 📄 amd_ags_x64.dll
 ├── 📁 data/
@@ -36,7 +36,7 @@ It should look something like this:
 ├── 📁 reshade-shaders/
 ├── 📄 steam_api64.dll
 └── 📄 steam_appid.txt
-
+```
 
 If you are on Linux ensure you have the correct DLL overrides in your launch options. If you are also using the P5StrikersFix modification it will be:
 
