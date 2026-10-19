@@ -20,6 +20,10 @@ Download the files using this button on GitHub.
 
 After that, extract the files into the Persona 5 Strikers install directory.
 
+<img width="964" height="661" alt="image" src="https://github.com/user-attachments/assets/e0e47846-a564-4ac1-b257-b2db884e7862" />
+
+This can be accessed by following the image attached above. 
+
 It should look something like this:
 ```
 📁 P5S/
