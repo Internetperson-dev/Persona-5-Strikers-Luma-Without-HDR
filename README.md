@@ -40,11 +40,27 @@ It should look something like this:
 └── 📄 steam_appid.txt
 ```
 
-If you are on Linux ensure you have the correct DLL overrides in your launch options. If you are also using the P5StrikersFix modification it will be:
+If you are on Linux ensure you have the correct DLL overrides in your launch options.
+
+To change launch options
+
+
+
+
+<img width="977" height="572" alt="image" src="https://github.com/user-attachments/assets/9e5db79d-b558-4174-b574-3e3e1e687bcb" />
+
+
+<img width="842" height="601" alt="image" src="https://github.com/user-attachments/assets/bbecf3d4-6d5a-4d52-a8ac-700ee37f205d" />
+
+
+If you are also using the P5StrikersFix modification it will be:
+
+
+
 
 `WINEDLLOVERRIDES="dxgi=n,b;dinput8=n,b" %command%`
 
-You can also update the upscaler DLLs with these launch options if you are using Proton-GE (Which you likely are because it is the only way to prevent the opening videos from crashing the game.):
+You can also update the upscaler DLLs with these launch options if you are using Proton-GE (Which you likely are because it is the only way to prevent the opening videos from crashing the game.) This is done with:
 
 `WINEDLLOVERRIDES="dxgi=n,b;dinput8=n,b" PROTON_DLSS_UPGRADE=1 PROTON_FSR3_UPGRADE=1 PROTON_FSR4_UPGRADE=1 PROTON_XESS_UPGRADE=1 %command%`
 
