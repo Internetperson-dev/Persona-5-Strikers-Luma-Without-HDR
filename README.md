@@ -11,6 +11,9 @@ https://github.com/Filoppi/Luma-Framework/issues/217 )
 
 (I am not quite sure if the HDR pipeline is tied to upscaling for this modification, but this solution works for my SDR screen for now.)
 
+---
+
+# Installation
 
 Download the files using this button on GitHub.
 
@@ -57,7 +60,7 @@ To change launch options follow the instructions below:
 <img width="842" height="601" alt="image" src="https://github.com/user-attachments/assets/bbecf3d4-6d5a-4d52-a8ac-700ee37f205d" />
 
 
-If you are also using the P5StrikersFix modification it will be:
+If you are also using the P5StrikersFix modification the launch options will be:
 
 
 
@@ -70,7 +73,7 @@ You can also update the upscaler DLLs with these launch options if you are using
 
 
 
-P5StrikersFix has support for upscampling the HUD, and even at 4K the HUD still has aliasing without mods. Sadly I have never got these options working, so I would recommend using DLSS or FSR for the 3D elements, and using the [NN-Shaders](https://github.com/Sarenya/NN-Shaders) Reshade shader to handle aliasing the HUD. This is already included.)
+P5StrikersFix has support for upsampling the HUD, and even at 4K the HUD still has aliasing without mods. Sadly I have never got these options working, so I would recommend using DLSS or FSR for the 3D elements, and using the [NN-Shaders](https://github.com/Sarenya/NN-Shaders) Reshade shader to aliasing the HUD. This is already included.)
 
 
 ## Issues I found
