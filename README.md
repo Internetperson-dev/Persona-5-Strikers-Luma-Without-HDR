@@ -24,7 +24,7 @@ After that, extract the files into the Persona 5 Strikers install directory.
 
 This can be accessed by following the image attached above. 
 
-It should look something like this:
+Once extracted, the file structure should look like this:
 ```
 📁 P5S/
 ├── 📄 amd_ags_x64.dll
@@ -46,7 +46,7 @@ It should look something like this:
 
 If you are on Linux ensure you have the correct DLL overrides in your launch options.
 
-To change launch options
+To change launch options follow the instructions below:
 
 
 
