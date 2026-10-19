@@ -14,7 +14,7 @@ https://github.com/Filoppi/Luma-Framework/issues/217 )
 
 Download the files using this button on GitHub.
 
-<img width="326" height="245" alt="image" src="https://github.com/user-attachments/assets/dea00105-25c6-42fc-84bf-aa42e46ec582" />
+<img width="740" height="438" alt="image" src="https://github.com/user-attachments/assets/1b45f021-16b3-4ef7-b661-0a225ae77b7d" />
 
 After that, extract the files into the Persona 5 Strikers install directory.
 
