@@ -1,3 +1,5 @@
+# Persona-5-Strikers-Luma-Without-HDR
+
 AI modified version of beta version of [this version of the Luma Framework for Persona 5 Strikers](https://discord.com/channels/1161035767917850784/1553042955248603246/1554833950210265208)
 
 (Make sure you are in the [HDR Den / Luma-Framework Discord server](https://discord.gg/Frc9Ry9nJ6) for the link to work.
@@ -11,9 +13,8 @@ https://github.com/Filoppi/Luma-Framework/issues/217 )
 
 (I am not quite sure if the HDR pipeline is tied to upscaling for this modification, but this solution works for my SDR screen for now.)
 
----
 
-# Installation
+## Installation
 
 Download the files using this button on GitHub.
 
